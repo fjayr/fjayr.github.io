@@ -1,9 +1,8 @@
-# fjayr.github.io
+# GENSHIN IMPACT
+![gaddeym](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/genshin-impact-japanese-twitter-youtube-artwork-archons-travelers.jpg)
 
-### Interests
+### What is Genshin Impact?
+- Genshin Impact is an open-world action role-playing game that allows the player to control one of four interchangeable characters in a party. Switching between characters can be done quickly during combat, allowing the player to use several different combinations of skills and attacks. Characters may have their strengths enhanced in various ways, such as increasing a character's level and improving artifacts and the weapons that the character equips. In addition to exploration, the player can attempt various challenges for rewards. Scattered across Teyvat are bosses and challenges that reward highly valuable resources, such as Stormterror and the Electro Hypostasis, but claiming them uses up a currency called resin, which slowly regenerates over time. Completing these challenges grants the player progress towards increasing their Adventure Rank, which in turn unlocks new quests, challenges, and raises the World Level. The World Level is a measure of how strong the enemies within the world are and the rarity of rewards that defeating them gives.
 
-- Guitar
-- Games
-- Rubik's Cube
-
-![gaddeym](https://i.pinimg.com/originals/63/b7/36/63b7369e51bdb30db1741ef1aefc19c6.png)
+### Lore of the Game
+- Genshin Impact takes place in the world of Teyvat, composed of the seven major nations of Mondstadt, Liyue, Inazuma, Sumeru, Fontaine, Natlan, and Snezhnaya; each nation is ruled by a different god. The mysterious floating island of Celestia is allegedly home to gods and mortals who have ascended to godhood through great, heroic feats. Underground lie the ruins of the nation of Khaenri'ah which was destroyed by gods 500 years before the events of the game. Unlike the seven major nations, Khaenri'ah was not ruled over by a god. The player character, the Traveler (male or female, depending on the player's choice), is separated from their twin and becomes trapped in Teyvat. They are joined by a companion, Paimon, as they journey through Teyvat in search of their lost sibling. Although players can choose the name they want to be referred by, the Traveler's sibling refers to the Traveler by either Aether or Lumine if the Traveler is male or female, respectively.
